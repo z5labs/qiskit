@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "qiskit-rest",
+  "qiskit",
+]
