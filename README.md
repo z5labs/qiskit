@@ -1,3 +1,5 @@
+![build](https://github.com/z5labs/qiskit/workflows/build/badge.svg)
+
 # qiskit **!!WIP!!**
 
 Qiskit is an open-source framework for quantum computing. This is the home
