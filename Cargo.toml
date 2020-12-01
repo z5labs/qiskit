@@ -2,4 +2,5 @@
 
 members = [
   "qiskit",
+  "qiskit-ibm",
 ]
